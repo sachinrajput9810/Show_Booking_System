@@ -14,7 +14,6 @@ The **Show Booking System** is a console-based application that allows organizer
 - **Search Shows by Genre**: View available shows and their slots for a specific genre.
 - **Book Tickets**: Reserve tickets for available slots .
 - **Cancel Bookings**: Free up a slot for others by canceling an existing booking.
-- **View Bookings**: Check all bookings made for the day.
 
 ##  Rules & Constraints
 - **Slot Management**: Slots are divided into 1-hour intervals (e.g., 9:00-10:00, 10:00-11:00).
